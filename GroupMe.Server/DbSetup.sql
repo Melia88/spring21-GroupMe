@@ -33,7 +33,7 @@ VALUES
     "CodeWorks Alumni",
     "Let's talk code!!!",
     "//placehold.it/500x500",
-    "358afb43-c49f-43b4-a3aa-ee24cec2b35e"
+    "c24842af-49b0-4fbc-9aa2-d510a8c841c1"
   );
 SELECT
   g.*,
