@@ -17,7 +17,7 @@ class GroupsService {
       title: `You have joined ${g.name}`,
       toast: true
     })
-    router.push({ name: 'Group', params: { id: g.id } })
+    router.push({ name: 'GroupMembersPage', params: { id: g.id } })
   }
 }
 
